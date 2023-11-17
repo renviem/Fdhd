@@ -2,4 +2,6 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("hggfhfhfhjfr");
 Console.WriteLine("113232");
-Console.WriteLine("536353");
+
+int q = 34;
+Console.WriteLine(q);
